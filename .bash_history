@@ -170,3 +170,42 @@ ls
 npm run test
 npm run build
 npm run start
+git init
+git add .
+git commit -m "initial commit"
+git config --global user.name "iamruban"
+git commit -m "initial commit"
+git remote origin git@github.com:iamruban/docker_test.git
+git push origin master
+git remote add origin git@github.com:iamruban/docker_test.git
+git push origin master
+sudo git push origin master
+git remote origin git@github.com:iamruban/docker_test.git
+git remote add origin git@github.com:iamruban/docker_test.git
+git push origin master
+ls
+git login
+git config
+git config --global user.name "iamruban"
+git push origin master
+ls -lrt
+chmod 755 get-docker.sh Dockerfile docker-compose.yml
+git push origin master
+git push -u origin master
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:iamruban/docker_test.git
+git push -u origin master
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/iamruban/docker_test.git
+git push -u origin master
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/iamruban/docker_test.git
+git remote set-url origin https://github.com/iamruban/docker_test.git
+git push -u origin master
+exit
