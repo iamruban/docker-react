@@ -22,9 +22,9 @@
 # Registers:
 
 # File marks:
-'0  5  1  ~/.travis.yml
-'1  7  6  ~/.travis.yml
-'2  8  47  ~/.travis.yml
+'0  7  1  ~/.travis.yml
+'1  5  1  ~/.travis.yml
+'2  6  6  ~/.travis.yml
 '3  6  17  ~/docker-compose.yml
 '4  8  3  ~/docker-compose.yml
 '5  1  0  ~/index.js
@@ -34,10 +34,10 @@
 '9  2  9  ~/Dockerfile
 
 # Jumplist (newest first):
--'  5  1  ~/.travis.yml
+-'  7  1  ~/.travis.yml
 -'  1  0  ~/.travis.yml
--'  7  6  ~/.travis.yml
--'  8  47  ~/.travis.yml
+-'  5  1  ~/.travis.yml
+-'  6  6  ~/.travis.yml
 -'  6  17  ~/docker-compose.yml
 -'  1  0  ~/docker-compose.yml
 -'  8  3  ~/docker-compose.yml
@@ -131,18 +131,19 @@
 -'  6  0  ~/Dockerfile
 -'  8  0  ~/package.json
 -'  9  0  ~/package.json
--'  1  0  ~/package.json
 
 # History of marks within files (newest to oldest):
 
 > ~/.travis.yml
-	"	5	1
-	^	5	2
-	.	5	2
-	+	8	47
+	"	7	1
+	^	7	2
+	.	7	2
+	+	7	47
 	+	3	8
 	+	4	15
-	+	5	2
+	+	5	0
+	+	5	0
+	+	7	2
 
 > ~/docker-compose.yml
 	"	6	17
